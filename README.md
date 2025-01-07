@@ -27,5 +27,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 ## Author
 
-- Website - [Manuel Carreras] 
+- Website - [Manuel Carreras](https://manuelcarreras.netlify.app/)
 - Frontend Mentor - [@ManuGolem](https://www.frontendmentor.io/profile/ManuGolem)
