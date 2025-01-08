@@ -14,11 +14,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+- Desktop:
+
+![Img Desktop](/images/desktop.png)
+- Mobile:
+
+![Img Mobile](/images/mobile.png)
 
 ### Links
-
-
-## My process
 
 ### Built with
 
