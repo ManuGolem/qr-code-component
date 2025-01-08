@@ -22,13 +22,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Img Mobile](/images/mobile.png)
 
 ### Links
--Live Demo - [qr-code-component](https://manugolem.github.io/qr-code-component-main/)
+-Live Site Url: [qr-code-component](https://manugolem.github.io/qr-code-component-main/)
+## My Process
 ### Built with
-
+- HTML5
 - CSS
 - Flexbox
-- CSS Grid
 ## Author
-
 - Website - [Manuel Carreras](https://manuelcarreras.netlify.app/)
 - Frontend Mentor - [@ManuGolem](https://www.frontendmentor.io/profile/ManuGolem)
