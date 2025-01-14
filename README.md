@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Img Mobile](/images/mobile.png)
 
 ### Links
--Live Site Url: [qr-code-component](https://manugolem.github.io/qr-code-component-main/)
+-Live Site Url: [qr-code-component](https://manugolem.github.io/qr-code-component/)
 ## My Process
 ### Built with
 - HTML5
